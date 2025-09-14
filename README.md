@@ -10,7 +10,6 @@
 
 ### 🔭 Currently Exploring
 - Transportation Data Science (Travel Behavior Modeling, Accident Heatmaps)  
-- Building Energy Performance using BIM + Data Processing  
 - Geospatial and GIS-based analytics for sustainable urban development  
 
 ---
