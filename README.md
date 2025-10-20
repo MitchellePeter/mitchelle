@@ -4,7 +4,7 @@
 🎓 Master’s in Data Science (Sustainable Engineering & Built Environment) @ Arizona State University (2024–2026)  
 📍 Background in Architecture + Data Analytics | Passion for Data Science, Urban Systems, and Visualization  
 
----
+---  
 
 ### 🔭 Currently Exploring
 - Transportation Data Science (Travel Behavior Modeling, Accident Heatmaps)  
