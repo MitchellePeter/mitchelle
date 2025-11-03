@@ -1,5 +1,5 @@
 
-# Hey there, I’m Mitchelle!!!
+# Hey there, I’m Mitchelle!
 
 🎓 Master’s in Data Science (Sustainable Engineering & Built Environment) @ Arizona State University (2024–2026)  
 📍 Background in Architecture + Data Analytics | Passion for Data Science, Urban Systems, and Visualization  
